@@ -10,10 +10,7 @@ public class TesteCarro {
 		meuCarro.setMarca("Honda");
 		meuCarro.setModelo("Civic");
 		meuCarro.setAno(2021);
-
 		meuCarro.exibirDetalhes();
-
-
 		System.out.println("Marca obtida: " + meuCarro.getMarca());
 	}
 }
